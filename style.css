@@ -120,3 +120,11 @@ p{
 	animation: flash; 
 	animation-duration: 2s;
 }
+
+.cardlist{
+	display: grid;
+    grid-template-columns: 2fr 3fr 2fr;
+    margin: 5rem auto;
+	flex-direction: column;
+    padding: 32px;
+}
