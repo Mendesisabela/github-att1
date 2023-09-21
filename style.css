@@ -114,3 +114,9 @@ p{
 	transform: scale(1.015);
 	filter: brightness(1.4);
 }
+
+
+.animate__animated{
+	animation: flash; 
+	animation-duration: 2s;
+}
