@@ -117,7 +117,7 @@ h1{
 .card:hover{
 	box-shadow: 0 7px 50px 10px #474b809c;
 	transform: scale(1.015);
-	filter: brightness(1.4);
+    cursor: pointer;
 }
 
 
